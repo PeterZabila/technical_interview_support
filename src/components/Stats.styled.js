@@ -6,9 +6,6 @@ export const StatsBlock = styled.div`
     left: 83px;
     margin-left: auto;
     margin-right: auto;
-    // display: flex;
-    // flex-direction: column;
-    // justify-content: center;
 `
 
 export const Info = styled.p`

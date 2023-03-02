@@ -30,7 +30,6 @@ const handleClick = (e) => {
 
 useEffect(() => {
   // const localData = JSON.parse(localStorage.getItem('folls'));
-  // console.log(typeof(localData))
   // setFolls(localData)
   localStorage.setItem('toggle', JSON.stringify(toggle));
   localStorage.setItem('folls', JSON.stringify(folls));
