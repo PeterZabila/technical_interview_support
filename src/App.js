@@ -1,5 +1,5 @@
 
-import Button from './components/Button';
+import Button from './components/Button/Button';
 import Stats from './components/Stats';
 import {Container, Pic, Pic21, Line, Ellipse, Avatar} from './App.styled'
 

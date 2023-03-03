@@ -11,7 +11,7 @@ export const Btn = styled.button`
     border-radius: 10.3108px;
     outline: none;
     border: none;
-    font-family: 'Montserrat';
+    font-family: Montserrat;
     font-style: normal;
     font-weight: 600;
     font-size: 18px;

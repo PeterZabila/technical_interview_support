@@ -2,13 +2,13 @@ import styled from "styled-components";
 
 export const StatsBlock = styled.div`
     position: absolute;
+    width: 100%;
     top: 284px;
-    left: 83px;
-    margin-left: auto;
-    margin-right: auto;
 `
 
 export const Info = styled.p`
+    margin-left: auto;
+    margin-right: auto;
     padding: 0px;
     margin-bottom: 16px;
     margin-top: 0px;

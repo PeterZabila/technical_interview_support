@@ -1,7 +1,5 @@
 import { Btn, BtnAct } from "./Button.styled"
 
-
-
 export default function Button({handleClick, toggle}) {
     return (
         <>
