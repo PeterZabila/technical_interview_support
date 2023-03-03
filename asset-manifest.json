@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/technical_interview_support/static/js/main.d9c9398f.js",
+    "static/media/pic21.png": "/technical_interview_support/static/media/pic21.032662a2a907475127d7.png",
+    "index.html": "/technical_interview_support/index.html",
+    "main.d9c9398f.js.map": "/technical_interview_support/static/js/main.d9c9398f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d9c9398f.js"
+  ]
+}
